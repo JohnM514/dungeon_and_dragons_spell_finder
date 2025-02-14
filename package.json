@@ -1,0 +1,12 @@
+{
+  "name": "dungeon_and_dragons_spell_finder",
+  "packageManager": "yarn@4.6.0",
+  "type": "module",
+  "main": "app.js",
+  "scripts": {
+    "start": "nodemon app.js"
+  },
+  "dependencies": {
+    "express": "^4.21.2"
+  }
+}
